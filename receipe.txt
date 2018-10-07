@@ -4,3 +4,9 @@ star
 moon
 earth
 sun
+satellite
+
+
+thank you
+
+done with the job
